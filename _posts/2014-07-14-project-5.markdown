@@ -2,10 +2,24 @@
 layout: default
 modal-id: 5
 date: 2014-07-14
-img: safe.png
+img: alexsandro-silva.jpg
 alt: image-alt
 project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
+artist: Trigger
+title: Só Lazer
+category: Fotografia
+description: "Essa foto eu fiz experimentando um filme que estava vencido mirando uma superexposição, o resultado foram essas fotos muito granuladas e pouco nítidas. Eu gosto dessa série porque me lembra muito as fotos antigas que temos daqui da quebrada, me remete a um tempo em que o acesso era raríssimo, poder reproduzir essa estética ainda que de forma experimental hoje nada mais é do que um privilégio. Eu gosto muito dessa ideia quase contraditória de trazer o analógico para ápice do que temos de acesso e consumo a imagens e artes digitais no geral, uma NFT analógica... É possível? Acredito que sim!
+<br/><br/>
+Partindo do mote proposto, o Modernismo, acho que esta proposta dialoga muito com a ideia ou ainda proposta de modernizar o analógico, ainda que seja apenas um simulacro formado por “zeros” e “uns”. Sempre quando penso nisso me veio o monólogo de Chico Science na cabeça:
+<br/><br/>
+Modernizar o passado<br/>
+É uma evolução musical<br/>
+Cadê as notas que estavam aqui<br/>
+Não preciso delas!<br/>
+Basta deixar tudo soando bem aos ouvidos.
+<br/><br/>
+Isso me diz que, por mais que eu tente reproduzir o passado isso não passará de uma tentativa. Basta fazer da melhor forma que eu conseguir, e deixar o mais próximo do meu objetivo inicial.
+<br/><br/>
+Foto feita em 2018 em um lomo Xpro forçado utilizando uma Pentax K1000.
+"
 ---

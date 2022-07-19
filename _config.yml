@@ -64,3 +64,5 @@ defaults:
       type: "posts"
     values:
       permalink: ""
+
+include: redirects

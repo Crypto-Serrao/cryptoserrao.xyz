@@ -1,11 +1,12 @@
 ---
 layout: default
 modal-id: 1
+title: Silhueta Anonima
 date: 2014-07-18
-img: cabin.png
+img: materia-prima.jpeg
 alt: image-alt
 project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
+artist: Matéria Prima
+category: Fotografia
+description: Centros urbanos e periferias tendem a nos anular e às vezes nos tornamos apenas silhuetas nas sombras...
 ---

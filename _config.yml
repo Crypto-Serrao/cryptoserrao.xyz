@@ -65,4 +65,4 @@ defaults:
     values:
       permalink: ""
 
-include: redirects
+include: _redirects

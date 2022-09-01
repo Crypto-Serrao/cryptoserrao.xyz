@@ -3,8 +3,8 @@ title: Crypto/Serrão
 email: cryptoserrao@gmail.com
 url: https://github.com/Crypto-Serrao/cryptoserrao.xyz
 description: "Artistas periféricos no mundo da criptoarte e NFTs."
-keywords: "periferia, criptoarte, nfts"
-skills: "Periferia Cryptoarte NFT"
+keywords: "periferia, inclusão digital, criptoarte, nfts"
+skills: "Periferia, inclusão digital e criptoarte"
 meta_author: Serrão Crypto
 
 # Google webmaster tools
@@ -25,7 +25,7 @@ disqus_shortname: myshortname
 
 # Color settings (hex-codes without the leading hash-tag)
 color:
-  primary: c0292c #80B3FF
+  primary: ef4928 #80B3FF
   # primary-rgb: "24,288,156" #"128,179,255"
   secondary: 000308 #FD6E8A
   secondary-dark: 000308 #A2122F
@@ -48,10 +48,10 @@ social:
 address:
   - line: Metaverso
   - line: Em exposição no Museu.xyz
-  - line: Acesse
+  - line: <a href="https://cryptoserrao.xyz/visite" target="_blank">Acesse</a>
 
 # Credits content
-credits: 'Projeto realizado por integrantes do Pior Bloco do Mundo e Seu Vizinho com recursos da LMIC de Belo Horizonte.'
+credits: 'Projeto realizado por integrantes dos blocos de carnaval <a href="https://www.instagram.com/seuvizinho_/" target="_blank">Seu Vizinho</a> e <a href="https://www.instagram.com/opiorinstadomundo/" target="_blank">O Pior Bloco do Mundo</a> para premiar artistas de periferia e promover inclusão digital, e é realizado através da Lei Municipal de Incentivo à Cultura de Belo Horizonte.'
 
 # Build settings
 markdown: kramdown

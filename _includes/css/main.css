@@ -25,6 +25,15 @@ a.active {
     color: #{{ site.color.primary }};
 }
 
+a.sec,
+a:hover.sec,
+a:focus.sec,
+a:active.sec,
+a.active .sec{
+    outline: 0;
+    color: #{{ site.color.secondary }};
+}
+
 h1,
 h2,
 h3,
@@ -84,6 +93,12 @@ header {
     text-align: center;
     color: #fff;
     background: #{{ site.color.primary }};
+}
+
+header.secondary {
+    text-align: center;
+    color: #fff;
+    background: #{{ site.color.secondary }};
 }
 
 header .container {
@@ -183,6 +198,11 @@ section h2 {
 section.success {
     color: #fff;
     background: #{{ site.color.primary }};
+}
+
+section.secondary {
+    color: #fff;
+    background: #{{ site.color.secondary }};
 }
 
 @media(max-width:767px) {

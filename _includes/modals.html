@@ -1,6 +1,6 @@
  <!-- Portfolio Modals -->
  {% for post in site.posts %}
-    <div class="portfolio-modal modal fade" id="portfolioModal-{{ post.modal-id }}" tabindex="-1" role="dialog" aria-hidden="true">
+    <div class="portfolio-modal modal fade" id="obra-{{ post.modal-id }}" tabindex="-1" role="dialog" aria-hidden="true">
         <div class="modal-content">
             <div class="close-modal" data-dismiss="modal">
                 <div class="lr">
@@ -13,24 +13,30 @@
                     <div class="col-lg-8 col-lg-offset-2">
                         <div class="modal-body">
                             <h2>{{ post.title }}</h2>
+                            <h3>{{ post.artist }}</h3>
                             <hr class="star-primary">
-                            <img src="img/portfolio/{{ post.img }}" class="img-responsive img-centered" alt="{{ post.alt }}">
+                            <h4>Obra</h4>
+
+                            {% if post.video %}
+                            <video class="img-responsive img-centered" playsinline="" loop="" controls="" src="{{ post.video }}"  autoplay=""></video>
+                            {% elsif post.img %}
+                                <img src="img/portfolio/{{ post.img }}" class="img-responsive img-centered" alt="{{ post.alt }}">
+                            {% endif %}
+
+                            {% if post.audio-file %}
+                                <strong>Obra musical, clique abaixo para ouvir:</strong><br>
+                                <audio controls>
+                                  <source src="media/{{ post.audio-file }}" type="audio/mpeg">
+                                Your browser does not support the audio element.
+                                </audio>
+                            {% endif %}
+
+                            <h4>Descrição</h4>
                             {% if post.description %}
                                 <p>{{ post.description | markdownify }}</p>
                             {% endif %}
+
                             <ul class="list-inline item-details">
-                                {% if post.artist %}
-                                    <li>Artista:
-                                        <strong>{{ post.artist }}
-                                        </strong>
-                                    </li>
-                                {% endif %}
-                               <!--  {% if post.project-date %}
-                                    <li>Date:
-                                        <strong><a href="http://startbootstrap.com">{{ post.project-date }}</a>
-                                        </strong>
-                                    </li>
-                                {% endif %} -->
                                 {% if post.category %}
                                     <li>Categoria:
                                         <strong>{{ post.category }}
@@ -38,7 +44,27 @@
                                     </li>
                                 {% endif %}
                             </ul>
-                            <button type="button" class="btn btn-default" data-dismiss="modal"><i class="fa fa-times"></i> Fechar</button>
+
+                            <a href="{{ post.nft-link }}" target="_blank"><button type="button" class="btn btn-green">Visualizar NFT</button></a>
+
+                            <hr class="star-primary">
+
+                            <h4>Artista</h4>
+                            <h3>{{ post.artist }}</h3>
+
+                            <p style="font-size: 40px">
+                                {% if post.instagram %}
+                                    <a href="http://instagram.com/{{ post.instagram }}" target="_blank" class="sec"><i class="fa fa-instagram" aria-hidden="true"></i></a>
+                                {% endif %}
+                                {% if post.twitter %}
+                                    <a href="http://twitter.com/{{ post.twitter }}" target="_blank" class="sec"><i class="fa fa-twitter-square" aria-hidden="true"></i></a>
+                                {% endif %}
+                            </p>
+                            
+                            <img src="img/artists/{{ post.artist-img }}" class="img-responsive img-centered" alt="{{ post.alt }}">
+                            <p>{{ post.artist-bio | markdownify }}</p>
+                            <br>
+                            <button type="button" class="btn btn-default" data-dismiss="modal">Fechar <i class="fa fa-times"></i></button>
                         </div>
                     </div>
                 </div>

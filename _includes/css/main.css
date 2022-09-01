@@ -34,6 +34,15 @@ a.active .sec{
     color: #{{ site.color.secondary }};
 }
 
+a.green,
+a:hover.green,
+a:focus.green,
+a:active.green,
+a.active .green{
+    outline: 0;
+    color: #1fab54;
+}
+
 h1,
 h2,
 h3,
@@ -315,6 +324,16 @@ section.secondary {
     border: solid 2px #fff;
     color: #{{ site.color.primary }};
     background: #fff;
+}
+
+.btn-green,
+.btn-green:hover,
+.btn-green:focus,
+.btn-green:active,
+.btn-green.active {
+    border: solid 2px #fff;
+    color: #FFF;
+    background: #1fab54;
 }
 
 .floating-label-form-group {

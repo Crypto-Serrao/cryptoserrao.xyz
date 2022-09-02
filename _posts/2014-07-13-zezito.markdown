@@ -2,11 +2,21 @@
 layout: default
 modal-id: 6
 date: 2014-07-15
-img: victor-mendes.jpg
 alt: image-alt
 project-date: April 2014
+
+# ARTISTA
 artist: zezito
+artist-img: zezito - José Victor Mendes Dias.jpg
+artist-bio: "Nascido e criado na zona Leste de BH, sou José Victor e atualmente tenho 19 anos. 
+Cresci em uma família incrível que me proporcionou um ambiente muito amável."
+instagram: vj.md
+# instagram: zezito.art
+
+# OBRA
 title: quedA
+nft-link: https://teia.art/objkt/770312
+img: victor-mendes.jpg
 category: Arte Digital
 description: "\"Olhei no espelho, Ícaro me encarou...\" <br/> Frase que desde de 2019, quando produzi essa obra, perpetua pela minha mente. Quanto mais tempo passa desde a sua concepção, mais sentido aparenta fazer, em situações tão diferentes." 
 ---

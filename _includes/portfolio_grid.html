@@ -9,7 +9,8 @@
                 </div>
             </div>
             <div class="portfolio-flex-row">
-                {% for post in site.posts %}
+                {% assign sorted = site.posts | sort: 'modal-id' | reverse %}
+                {% for post in sorted %}
                     <div class="portfolio-flex-item portfolio-item">
                         <a href="#obra-{{ post.modal-id }}" class="portfolio-link" data-toggle="modal">
                             <div class="caption">

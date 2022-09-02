@@ -18,7 +18,7 @@
                             <h4>Obra</h4>
 
                             {% if post.video %}
-                            <video class="img-responsive img-centered" playsinline="" loop="" controls="" src="{{ post.video }}"  autoplay=""></video>
+                            <video class="img-responsive img-centered" playsinline="" loop="" controls="" src="{{ post.video }}"  autoplay="" muted></video>
                             {% elsif post.img %}
                                 <img src="img/portfolio/{{ post.img }}" class="img-responsive img-centered" alt="{{ post.alt }}">
                             {% endif %}

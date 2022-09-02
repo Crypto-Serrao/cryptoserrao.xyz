@@ -2,17 +2,21 @@
 layout: default
 modal-id: 10
 date: 2022-09-01
-img: guto-corpo-periferico.png
-nft-link: https://teia.art/objkt/770865
 alt: image-alt
 project-date: April 2014
+
+# ARTISTA
 artist: Gustavo Martin
 artist-img: Guto - Gustavo Dias.png
 instagram: gutom_arte
 twitter: gutom_arte
 artist-bio: "Ei, meu nome é Gustavo Martins, mas vc pode me chamar de Guto! Tenho 28 anos y sou natural de Belo Horizonte, Minas Gerais. Comecei a pintar em 2016, a fim de ilustrar meu primeiro blog \"Um ex adolescente\", no qual publicava poemas, contos, crônicas, com pinturas em aquarela. Por meio da arte, busco narrar vivências enquanto um garoto preto, gay e periférico, O Alto Vera Cruz, bairro no qual cresci, tem forte influência nestas experiências."
+
+# OBRA
 title: Corpo periférico
 category: Pintura
+img: guto-corpo-periferico.png
+nft-link: https://teia.art/objkt/770865
 description: "A Semana de arte Moderna foi realizada após 100 anos da Independência do Brasil e buscava criar uma imagem do ser brasileiro. Entretanto, durante os anos anteriores, povos escravizados recém \"\"libertos\"\" foram deixados a mercê da auto sobrevivência. 
 <br><br>
 Na época do movimento artístico, trabalhadores pobres, em maioria não brancos, foram expulsos de suas residências em regiões centrais.  Como a história da mulher Papuda que morava onde hoje é o Palácio da Liberdade (BH). A destruição do Curral Dela Rey, obrigou os moradores originais a saírem de suas residências, expulsando-os da região central para as periferia da cidade.

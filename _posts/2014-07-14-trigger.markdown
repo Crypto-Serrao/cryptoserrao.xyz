@@ -2,12 +2,21 @@
 layout: default
 modal-id: 5
 date: 2014-07-14
-img: alexsandro-silva.jpg
 alt: image-alt
 project-date: April 2014
+
+# ARTISTA
 artist: Trigger
+artist-img: Trigger - Alexsandro Silva.jpg
+instagram: trigger_s.a
+twitter: NFTreta
+artist-bio: "Alexsandro Trigger, 28 anos morador do Morro do Papagaio em Belo Horizonte/MG. Graduando em museologia pela UFMG, produtor cultural, artista visual com foco em pesquisa de processos audiovisuais analógicos, questões étnico-raciais, periféricas, museológicas e de matriz africana. Coordenador do Muquifu, Museu dos Quilombos e Favelas Urbanos, integrante dos coletivos: Isto Não é um Sarau; Museologia Kilombola; Hunko Letivo e Coletivo Mofo."
+
+# OBRA
 title: Só Lazer
 category: Fotografia
+img: alexsandro-silva.jpg
+nft-link: https://teia.art/objkt/771887
 description: "Essa foto eu fiz experimentando um filme que estava vencido mirando uma superexposição, o resultado foram essas fotos muito granuladas e pouco nítidas. Eu gosto dessa série porque me lembra muito as fotos antigas que temos daqui da quebrada, me remete a um tempo em que o acesso era raríssimo, poder reproduzir essa estética ainda que de forma experimental hoje nada mais é do que um privilégio. Eu gosto muito dessa ideia quase contraditória de trazer o analógico para ápice do que temos de acesso e consumo a imagens e artes digitais no geral, uma NFT analógica... É possível? Acredito que sim!
 <br/><br/>
 Partindo do mote proposto, o Modernismo, acho que esta proposta dialoga muito com a ideia ou ainda proposta de modernizar o analógico, ainda que seja apenas um simulacro formado por “zeros” e “uns”. Sempre quando penso nisso me veio o monólogo de Chico Science na cabeça:

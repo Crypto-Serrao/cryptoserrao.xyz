@@ -2,18 +2,22 @@
 layout: default
 modal-id: 8
 date: 2022-09-01
-img: espirito-livre.jpg
-audio-file: ESPÍRITO LIVRE EP - AD MOON - Ádila Munhoz.mp3
-nft-link: https://teia.art/objkt/770334
 alt: image-alt
 project-date: April 2014
+
+# ARTISTA
 artist: AD MOON
 artist-img: AD MOON - Ádila Munhoz.jpg
 instagram: admoon__
 twitter: admoonx
 artist-bio: "AD MOON tem 24 anos, é beatmaker e artista visual da zona noroeste de Belo Horizonte. Atua na cena dos beats há 3 anos e produz artes visuais há 8. Cursou Artes Plásticas na Escola Guignard por dois anos, porém atualmente vêm se dedicando majoritariamente à música. AD produz beats desde 2019 e já lançou 2 EPs solos, além de possuir colaborações com outros artistas. Atualmente vem apostando também em criar beats NFTs."
+
+# OBRA
 title: Espírito Livre
 category: Música
+img: espirito-livre.jpg
+audio-file: ESPÍRITO LIVRE EP - AD MOON - Ádila Munhoz.mp3
+nft-link: https://teia.art/objkt/770334
 description: "\"Espírito Livre\" é um pequeno EP composto por 3 beats experimentais de chillhop.
 <br><br>
 Este é um trabalho inteiramente fiel à cultura do sampling, com sonoridades calmas, como o rhodes e o sax, que contrastam com baterias marcantes de boombap.

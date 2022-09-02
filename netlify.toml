@@ -1,3 +1,9 @@
 # sample file: https://docs.netlify.com/configure-builds/file-based-configuration/#sample-netlify-toml-file
 [build]
 command = ""
+base = ""
+
+
+[[redirects]]
+  from = "/*"
+  to = "https://www.voxels.com/play?coords=W@5083W,1646N"

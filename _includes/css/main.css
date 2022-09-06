@@ -107,7 +107,7 @@ header {
 header.main {
     text-align: center;
     color: #fff;
-    background: rgba(0,0,0,.85);
+    background: rgba(0,0,0,.4);
     background-image: url("img/Fundo-CrpyotSerrao@3x.png");
     background-position: center; /* Center the image */
     background-repeat: no-repeat; /* Do not repeat the image */

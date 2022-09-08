@@ -255,6 +255,12 @@ header .intro-text .skills {
     background-color: #{{ site.color.primary }} !important;
 }
 
+.navbar-toggle:hover,
+.navbar-toggle:focus{
+    background-color: #{{ site.color.primary }} !important;
+    /*background-color: #{{ site.color.primary }};*/
+}
+
 section {
     padding: 100px 0;
 }

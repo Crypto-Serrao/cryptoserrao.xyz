@@ -111,12 +111,12 @@ header {
 header.main {
     text-align: center;
     color: #fff;
-    background: rgba(0,0,0,.05);
+    /*background: rgba(0,0,0,.05);*/
     background-image: url("img/cryptoserrao.png");
     background-position: center; /* Center the image */
     background-repeat: no-repeat; /* Do not repeat the image */
     background-size: cover; /* Resize the background image to cover the entire container */
-    background-blend-mode: multiply;
+    /*background-blend-mode: multiply;*/
 }
 
 header.primary {

@@ -230,6 +230,10 @@ header .intro-text .skills {
     background-color: #{{ site.color.secondary }};
 }
 
+.navbar-default .navbar-toggle {
+    border-color: #{{ site.color.primary }};
+}
+
 .navbar-nav>li>a{
     color: #{{ site.color.primary }} !important;
     /*background-color: #{{ site.color.primary }};*/

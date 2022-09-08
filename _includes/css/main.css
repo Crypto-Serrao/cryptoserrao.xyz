@@ -119,6 +119,17 @@ header.main {
     background-blend-mode: multiply;
 }
 
+header.primary {
+    text-align: center;
+    color: #{{ site.color.secondary }};
+    background: #{{ site.color.primary }};
+}
+
+header.primary a {
+    color: #{{ site.color.quaternary }};
+}
+
+
 header.secondary {
     text-align: center;
     color: #{{ site.color.primary }};
@@ -254,8 +265,8 @@ section h2 {
 }
 
 section#portfolio {
-    color: #{{ site.color.secondary }};
-    background: #{{ site.color.primary }};
+    color: #{{ site.color.primary }};
+    background: #{{ site.color.secondary }};
 }
 
 section.success {
@@ -559,7 +570,7 @@ footer .footer-below {
     width: 1px;
     height: 75px;
     margin-left: 35px;
-    background-color: #{{ site.color.secondary }};
+    background-color: #{{ site.color.primary }};
     -webkit-transform: rotate(45deg);
     -ms-transform: rotate(45deg);
     transform: rotate(45deg);
@@ -569,7 +580,7 @@ footer .footer-below {
     z-index: 1052;
     width: 1px;
     height: 75px;
-    background-color: #{{ site.color.secondary }};
+    background-color: #{{ site.color.primary }};
     -webkit-transform: rotate(90deg);
     -ms-transform: rotate(90deg);
     transform: rotate(90deg);

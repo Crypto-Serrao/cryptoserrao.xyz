@@ -86,6 +86,10 @@ hr.star-light:after {
 }
 
 hr.star-primary {
+    border-color: #{{ site.color.primary }};
+}
+
+hr.star-secondary {
     border-color: #{{ site.color.secondary }};
 }
 
@@ -117,8 +121,12 @@ header.main {
 
 header.secondary {
     text-align: center;
-    color: #fff;
+    color: #{{ site.color.primary }};
     background: #{{ site.color.secondary }};
+}
+
+header.secondary a {
+    color: #{{ site.color.terciary }};
 }
 
 header .container {
@@ -206,6 +214,36 @@ header .intro-text .skills {
     border: 0;
 }
 
+.navbar-default{
+    color: #{{ site.color.primary }};
+    background-color: #{{ site.color.secondary }};
+}
+
+.navbar-nav>li>a{
+    color: #{{ site.color.primary }} !important;
+    /*background-color: #{{ site.color.primary }};*/
+}
+
+.navbar a:hover{
+    color: #{{ site.color.terciary }} !important;
+    /*background-color: #{{ site.color.primary }};*/
+}
+
+.navbar a.navbar-brand{
+    color: #{{ site.color.primary }} !important;
+    /*background-color: #{{ site.color.primary }};*/
+}
+
+.navbar a.navbar-brand:hover{
+    color: #{{ site.color.terciary }} !important;
+    /*background-color: #{{ site.color.primary }};*/
+}
+
+.navbar-nav>.active>a{
+    color: #{{ site.color.secondary }}  !important;
+    background-color: #{{ site.color.primary }} !important;
+}
+
 section {
     padding: 100px 0;
 }
@@ -215,9 +253,18 @@ section h2 {
     font-size: 3em;
 }
 
+section#portfolio {
+    color: #{{ site.color.secondary }};
+    background: #{{ site.color.primary }};
+}
+
 section.success {
     color: #fff;
     background: #{{ site.color.primary }};
+}
+
+section.success a{
+    color: #{{ site.color.quaternary }};
 }
 
 section.secondary {
@@ -323,7 +370,7 @@ section.secondary {
     margin-top: 15px;
     border: solid 2px #fff;
     font-size: 20px;
-    color: #fff;
+    color: #{{ site.color.primary }};;
     background: 0 0;
     transition: all .3s ease-in-out;
 }
@@ -342,7 +389,7 @@ section.secondary {
 .btn-green:focus,
 .btn-green:active,
 .btn-green.active {
-    border: solid 2px #fff;
+    /*border: solid 2px #fff;*/
     color: #FFF;
     background: #1fab54;
 }
@@ -404,7 +451,11 @@ form .row:first-child .floating-label-form-group {
 }
 
 footer {
-    color: #fff;
+    color: #{{ site.color.primary }};
+}
+
+footer a {
+    color: #{{ site.color.secondary-dark }};
 }
 
 footer h3 {
@@ -472,6 +523,8 @@ footer .footer-below {
     background-clip: border-box;
     -webkit-box-shadow: none;
     box-shadow: none;
+    color: #{{ site.color.primary }};
+    background-color: #{{ site.color.secondary }};
 }
 
 .portfolio-modal .modal-content h2 {
@@ -522,9 +575,9 @@ footer .footer-below {
     transform: rotate(90deg);
 }
 
-.navbar-nav>.active>a {
+/*.navbar-nav>.active>a {
     background-color: #{{ site.color.secondary-dark }} !important;
-}
+}*/
 
 /* Fix modal mouse wheel issues */
 /* https://github.com/twbs/bootstrap/issues/16297 */

@@ -16,7 +16,7 @@
                             <h2>{{ post.title }}</h2>
                             <h3>{{ post.artist }}</h3>
                             <hr class="star-primary">
-                            <h4>Obra</h4>
+                            <h4>{{ site.data.translations['modal']['obra'][page.lang] }}</h4>
 
                             {% if post.video %}
                             <video class="img-responsive img-centered" playsinline="" loop="" controls="" src="{{ site.baseurl }}{{ post.video }}"  autoplay="" muted></video>
@@ -25,32 +25,32 @@
                             {% endif %}
 
                             {% if post.audio-file %}
-                                <strong>Obra musical, clique abaixo para ouvir:</strong><br>
+                                <strong>{{ site.data.translations['modal']['obraMusical'][page.lang] }}</strong><br>
                                 <audio controls>
                                   <source src="{{ site.baseurl }}media/{{ post.audio-file }}" type="audio/mpeg">
                                 Your browser does not support the audio element.
                                 </audio>
                             {% endif %}
 
-                            <h4>Descrição</h4>
+                            <h4>{{ site.data.translations['modal']['descricao'][page.lang] }}</h4>
                             {% if post.description %}
                                 <p>{{ post.description | markdownify }}</p>
                             {% endif %}
 
                             <ul class="list-inline item-details">
                                 {% if post.category %}
-                                    <li>Categoria:
+                                    <li>{{ site.data.translations['modal']['categoria'][page.lang] }}:
                                         <strong>{{ post.category }}
                                         </strong>
                                     </li>
                                 {% endif %}
                             </ul>
 
-                            <a href="{{ post.nft-link }}" target="_blank"><button type="button" class="btn btn-green">Visualizar NFT</button></a>
+                            <a href="{{ post.nft-link }}" target="_blank"><button type="button" class="btn btn-green">{{ site.data.translations['modal']['visualizarNFT'][page.lang] }}</button></a>
 
                             <hr class="star-primary">
 
-                            <h4>Artista</h4>
+                            <h4>{{ site.data.translations['modal']['artista'][page.lang] }}</h4>
                             <h3>{{ post.artist }}</h3>
 
                             <p style="font-size: 40px">
@@ -65,7 +65,7 @@
                             <img src="{{ site.baseurl }}img/artists/{{ post.artist-img }}" class="img-responsive img-centered" alt="{{ post.alt }}">
                             <p>{{ post.artist-bio | markdownify }}</p>
                             <br>
-                            <button type="button" class="btn btn-default" data-dismiss="modal">Fechar <i class="fa fa-times"></i></button>
+                            <button type="button" class="btn btn-default" data-dismiss="modal">{{ site.data.translations['modal']['fechar'][page.lang] }} <i class="fa fa-times"></i></button>
                         </div>
                     </div>
                 </div>

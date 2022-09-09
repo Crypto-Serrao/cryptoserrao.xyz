@@ -126,7 +126,7 @@ sobreObrasExposicao:
 # SEÇÃO: Footer
 #
 ##################################
-# Footer settings
+
 footer:
   location:
     pt: Aonde?
@@ -166,6 +166,44 @@ palavraASerTraduzida:
   pt: ""
   en: ""
   es: ""
+
+##################################
+#
+# MODAL
+#
+##################################
+
+modal:
+  obra:
+    pt: "Obra"
+    en: "Artwork"
+    es: "Obra de arte"
+  obraMusical:
+    pt: "Obra musical, clique abaixo para ouvir:"
+    en: "Musical work, click below to listen:"
+    es: "Obra musical, haz click abajo para escuchar:"
+  descricao:
+    pt: "Descrição"
+    en: "Description"
+    es: "Descripción"
+  categoria:
+    pt: "Categoria"
+    en: "Category"
+    es: "Categoría"
+  visualizarNFT:
+    pt: "Visualizar NFT"
+    en: "Go to NFT"
+    es: "Ver NFT"
+  artista:
+    pt: "Artista"
+    en: "Artist"
+    es: "Artista"
+  fechar:
+    pt: "Fechar"
+    en: "Close"
+    es: "Cerrarse"
+
+
 
 ##################################
 #

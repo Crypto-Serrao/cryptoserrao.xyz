@@ -1,6 +1,7 @@
 ---
 layout: default
 modal-id: 5
+lang: en
 date: 2022-09-01
 alt: image-alt
 project-date: April 2014
@@ -13,7 +14,7 @@ artist-bio: "Heberte Almeida atua como cantor, compositor, multi-instrumentista 
 
 # OBRA
 title: Cafuza
-category: Música
+category: Music
 img: cafuza.jpg
 audio-file: Cafuza.mp3
 nft-link: https://teia.art/objkt/770335

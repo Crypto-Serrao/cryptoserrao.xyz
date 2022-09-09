@@ -8,6 +8,7 @@ project-date: April 2014
 # ARTISTA
 artist: Riel
 artist-img: Riel - Gabriel Soares.jpg
+instagram: riel.treze
 artist-bio: "Me chamo Gabriel Araújo Soares, sou estudante de Artes Visuais na Universidade Federal de Minas Gerais, morador de periferia e auto declarado pardo. Sobre minha produção artística, apesar de explorar múltiplas habilitações dentro das artes visuais, meu foco tem sido na pintura, onde tenho desenvolvido meu trabalho em torno de questões como desigualdade, racismo e principalmente violência."
 
 # OBRA

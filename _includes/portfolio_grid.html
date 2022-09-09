@@ -4,12 +4,12 @@
         <div class="container portfolio-flex-grid">
             <div class="row">
                 <div class="col-lg-12 text-center">
-                    <h2>Obras Premiadas</h2>
+                    <h2>{{ site.data.translations['obrasPremiadas'][page.lang] }}</h2>
                     <hr class="star-primary">
                 </div>
             </div>
             <div class="portfolio-flex-row">
-                {% assign sorted = site.posts | sort: 'artist' %} <!-- | reverse -->
+                {% assign sorted = site.posts | where:"lang", page.lang | sort: 'artist' %} <!-- | reverse -->
                 {% for post in sorted %}
                     <div class="portfolio-flex-item portfolio-item">
                         <a href="#obra-{{ post.modal-id }}" class="portfolio-link" data-toggle="modal">
@@ -18,7 +18,7 @@
                                     <i class="fa fa-search-plus fa-3x"></i>
                                 </div>
                             </div>
-                            <img src="img/portfolio/{{ post.img }}" class="img-responsive" alt="{{ post.alt }}">
+                            <img src="{{ site.baseurl }}img/portfolio/{{ post.img }}" class="img-responsive" alt="{{ post.alt }}">
                         </a>
                     </div>
                 {% endfor %}

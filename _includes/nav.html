@@ -19,20 +19,24 @@
                         <a href="#page-top"></a>
                     </li>
                     <li class="page-scroll">
-                        <a href="#portfolio">Obras premiadas</a>
+                        <a href="#portfolio">{{ site.data.translations['obrasPremiadas'][page.lang] }}</a>
                     </li>
                     <li class="page-scroll">
-                        <a href="#exhibition">Exposição</a>
+                        <a href="#exhibition">{{ site.data.translations['exposicao'][page.lang] }}</a>
                     </li>
                     <li class="page-scroll">
-                        <a href="#workshops">Oficinas</a>
+                        <a href="#workshops">{{ site.data.translations['oficinas'][page.lang] }}</a>
                     </li>
                     <li class="page-scroll">
-                        <a href="#about">Sobre</a>
+                        <a href="#about">{{ site.data.translations['sobre'][page.lang] }}</a>
                     </li>
-                    <!-- <li class="page-scroll">
-                        <a href="#contact">Contact</a>
-                    </li> -->
+
+                        <!-- <ul class="languages"> -->
+                        {% for lang in site.data.languages %}
+                        {% assign language = lang[1] %}
+                        <li><a href="{{site.baseurl}}{{lang[0]}}">{{language.icon}}</a></li>
+                        {% endfor %}
+                        <!-- </ul> -->
                 </ul>
             </div>
             <!-- /.navbar-collapse -->

@@ -1,5 +1,6 @@
  <!-- Portfolio Modals -->
- {% for post in site.posts %}
+ {% assign sorted = site.posts | where:"lang", page.lang | sort: 'artist' %} <!-- | reverse -->
+ {% for post in sorted %}
     <div class="portfolio-modal modal fade" id="obra-{{ post.modal-id }}" tabindex="-1" role="dialog" aria-hidden="true">
         <div class="modal-content">
             <div class="close-modal" data-dismiss="modal">
@@ -18,15 +19,15 @@
                             <h4>Obra</h4>
 
                             {% if post.video %}
-                            <video class="img-responsive img-centered" playsinline="" loop="" controls="" src="{{ post.video }}"  autoplay="" muted></video>
+                            <video class="img-responsive img-centered" playsinline="" loop="" controls="" src="{{ site.baseurl }}{{ post.video }}"  autoplay="" muted></video>
                             {% elsif post.img %}
-                                <img src="img/portfolio/{{ post.img }}" class="img-responsive img-centered" alt="{{ post.alt }}">
+                                <img src="{{ site.baseurl }}img/portfolio/{{ post.img }}" class="img-responsive img-centered" alt="{{ post.alt }}">
                             {% endif %}
 
                             {% if post.audio-file %}
                                 <strong>Obra musical, clique abaixo para ouvir:</strong><br>
                                 <audio controls>
-                                  <source src="media/{{ post.audio-file }}" type="audio/mpeg">
+                                  <source src="{{ site.baseurl }}media/{{ post.audio-file }}" type="audio/mpeg">
                                 Your browser does not support the audio element.
                                 </audio>
                             {% endif %}
@@ -61,7 +62,7 @@
                                 {% endif %}
                             </p>
                             
-                            <img src="img/artists/{{ post.artist-img }}" class="img-responsive img-centered" alt="{{ post.alt }}">
+                            <img src="{{ site.baseurl }}img/artists/{{ post.artist-img }}" class="img-responsive img-centered" alt="{{ post.alt }}">
                             <p>{{ post.artist-bio | markdownify }}</p>
                             <br>
                             <button type="button" class="btn btn-default" data-dismiss="modal">Fechar <i class="fa fa-times"></i></button>

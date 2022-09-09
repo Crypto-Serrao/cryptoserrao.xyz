@@ -14,7 +14,7 @@ instagram: gabriellopoo
 # instagram: zezito.art
 
 # OBRA
-title: Gão Du Corte
+title: Corte da Aranha
 nft-link: https://teia.art/objkt/773349
 img: gabriel-lopo-grao-du-corte.png
 category: Pintura

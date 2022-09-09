@@ -1,6 +1,7 @@
 ---
 layout: default
 modal-id: 12
+lang: pt
 date: 2014-07-14
 alt: image-alt
 project-date: April 2014

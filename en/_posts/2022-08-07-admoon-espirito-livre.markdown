@@ -1,5 +1,6 @@
 ---
 layout: default
+lang: en
 modal-id: 7
 date: 2022-09-01
 alt: image-alt
@@ -10,7 +11,7 @@ artist: AD MOON
 artist-img: AD MOON - Ádila Munhoz.jpg
 instagram: admoon__
 twitter: admoonx
-artist-bio: "AD MOON tem 24 anos, é beatmaker e artista visual da zona noroeste de Belo Horizonte. Atua na cena dos beats há 3 anos e produz artes visuais há 8. Cursou Artes Plásticas na Escola Guignard por dois anos, porém atualmente vêm se dedicando majoritariamente à música. AD produz beats desde 2019 e já lançou 2 EPs solos, além de possuir colaborações com outros artistas. Atualmente vem apostando também em criar beats NFTs."
+artist-bio: "Ad Moon is 24 years old, she is a beatmaker and visual artist from the Northwest area of Belo Horizonte. Her artistic career began in 2014 with graffiti, through the contact she had with Hip Hop since childhood. Ad has already communicated with several artistic languages, including studying Fine Arts for two years at the Guignard School, until finally deciding to dedicate himself to music production. She has been producing beats since 2019 and has already released 2 solo EPs, in addition to having collaborations on projects with other artists and venturing into the creation of NFT beats. Her musical identity goes through boombap, lo-fi and chillhop, always in an experimental and free way."
 
 # OBRA
 title: Espírito Livre
@@ -18,13 +19,11 @@ category: Música
 img: espirito-livre.jpg
 audio-file: ESPÍRITO LIVRE EP - AD MOON - Ádila Munhoz.mp3
 nft-link: https://teia.art/objkt/770334
-description: "\"Espírito Livre\" é um pequeno EP composto por 3 beats experimentais de chillhop.
+description: "Espírito Livre (free spirit) is a small EP composed of 3 experimental lo-fi/chillhop beats. A work entirely faithful to the culture of sampling, with calm timbres, such as rhodes and sax, which contrast with striking boombap drums.
 <br><br>
-Este é um trabalho inteiramente fiel à cultura do sampling, com sonoridades calmas, como o rhodes e o sax, que contrastam com baterias marcantes de boombap.
+Free is what I seek to be, in and out of my songs. I seek to express in an abstract way everything my heart feels and all the experience I already carry in this existence. At the same time, I seek to provide a feeling of refuge and tranquility with the choice of timbres, thus contributing to finding an internal freedom whenever the sound is playing.
 <br><br>
-Espírito livre é o que eu busco ser, dentro e fora das minhas músicas. Busco expressar de forma abstrata tudo o que meu coração sente e toda a vivência que já carrego nessa existência. Ao mesmo tempo, busco proporcionar uma sensação de refúgio e tranquilidade com a escolha dos timbres, contribuindo assim, para o encontro de uma liberdade interna sempre que o som estiver tocando. Para mim, ser livre é um estado de espírito, e a música tem uma grande missão nisso, tanto para quem faz quanto para quem apenas escuta. Para os amantes da cultura Hip Hop, como eu, os beats são responsáveis por trazer sensações únicas de liberdade e ao mesmo tempo de pertencimento. Isso é o suficiente para transformar vidas para sempre.
-<br><br>
-Nomes das faixas, respectivamente:
+The track names are respectively:
 <br><br>
 1. Suspiro (0:00)<br>
 2. Fuga (2:47)<br>

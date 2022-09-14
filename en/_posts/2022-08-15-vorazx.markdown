@@ -1,5 +1,6 @@
 ---
 layout: default
+lang: en
 modal-id: 15
 date: 2014-07-15
 alt: image-alt
@@ -8,7 +9,7 @@ project-date: April 2014
 # ARTISTA
 artist: Vorazx
 artist-img: Vorazx.jpg
-artist-bio: "Adson Souza Martins do Carmo(23), mais conhecido como Vorazx, artista da zona leste de Belo Horizonte, cria do Alto Vera Cruz, viu no no trap uma forma de mudar a realidade vivida por vários, com sons que trazem sua expressão e vivências do cotidiano em que vivemos junto com temas que todo favelado gosta."
+artist-bio: "Adson Souza Martins do Carmo, 23, better known as Vorazx, is an artist from the east of Belo Horizonte. Raised in the Alto Vera Cruz neighborhood, he saw in trap music a way to change reality, with sounds that bring everyday experiences and themes that every favelado likes."
 
 instagram: v0razx
 twitter: vorazxreal 
@@ -19,5 +20,5 @@ nft-link: https://teia.art/objkt/772269
 img: vorazx-160.jpg
 audio-file: Vorazx - 160.mp3
 category: Música
-description: "Faixa produzida por artistas da Zona Leste de BH! Direto do Alto Vera Cruz, trazemos essa track para representar nossa quebrada e mostrar que o Alto também sabe fazer trap! Sentimento de vitória e alivio, com mistura de amor e alegria, do nosso jeito, arte que me salvou e quero isso pra geral! BH È NOIS. Vorazx." 
+description: "This trap song was made because I almost lost my motorbike last year due to a ride with the wrong companies... In 2022, entering the rap scene, I had this idea. And I also wanted to portray a little of our experience, a little of what we like. I wanted to encourage those who listen to 160 to always seek the path of prosperity, without getting their arses busted." 
 ---

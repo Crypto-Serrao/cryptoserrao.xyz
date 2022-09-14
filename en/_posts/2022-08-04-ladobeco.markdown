@@ -10,7 +10,7 @@ project-date: April 2014
 artist: LadoBeco
 artist-img: LadoBeco - bernardo cosme do amaral.jpg
 instagram: bernardo_ladobeco
-artist-bio: "Nascido e Criado em Belo Horizonte – MG na região do bairro Lagoinha, é graduando em Artes Plásticas, pela Guignard – Universidade do Estadual de Minas Gerais. Iniciou seu trabalho com o graffiti e arte de rua há 15 anos e se integrou ao grupo de Arte Urbana Rupestre. Atuou como monitor de oficina de grafitti para o programa social Fica Vivo, Projovem e para o coletivo Fábrica de Graffiti."
+artist-bio: "Born and raised in Belo Horizonte - MG, in the Lagoinha neighborhood, LadoBeco studies Fine Arts at Guignard (State University of Minas Gerais). He started his work with graffiti and street art 15 years ago and joined the Arte Urbana Rupestre group. He worked as a graffiti workshop monitor for the social program Fica Vivo, Projovem and for the Fábrica de Graffiti collective."
 
 
 # OBRA
@@ -18,12 +18,13 @@ title: Stones against the rock
 img: lado-beco.jpg
 nft-link: https://teia.art/objkt/774646
 category: Pintura
-description: "The concept of the work is to simultaneously demonstrate something elementary and dubious referenced in a children's game. In it I bring two personas in which one is sustained by the force of the other, their physical characteristics can be understood as the social pyramid that is composed of a wide base, but limited in resources and therefore the blue persona is smaller and more frail.
+description: "The concept of the work is to simultaneously demonstrate something elementary and dubious referenced in a children's game. In it I bring two personas in which one is supported by the strength of the other. Their physical characteristics can be understood as the social pyramid that is composed of a broad base, but limited in resources – that's why the blue persona is smaller and thinner. The reddish persona is larger, despite being equally thin, which can demonstrate that both the base and the top of the pyramid are lacking something that truly nourishes them.
+
 <br><br>
-The red persona is larger, although equally frail, which may demonstrate that both the base and the top of the pyramid are insufficient in something that really nourishes them. The red persona has a slingshot, which demonstrates that the top of the pyramid is armed while being sustained by the base, which even with its limitation and disadvantage of resources sustains the top. The main question is given to the fact that both personas are blindfolded, they have the weapon, the target, but they do not have the vision, which makes the fight against the true enemy more complex.
+The reddish persona has a slingshot, which demonstrates that the top pyramid is equipped with a weapon while being supported by the base, which even with its limitation and resource disadvantage supports the top. The main question is the fact that both personas are blindfolded, they have weapons, target, but no vision, which makes the fight against a true enemy more complex.
 <br><br>
-Their colors can be related to the current moment of political polarization of our country in which we are in the same place, but divided. And without vision, we cannot look down to see the needs below our navel, nor look up to have a broader vision.
+Its colors can relate to the current moment of political polarization in our country, in which we are in the same place, but divided. And without vision, we can't look down to see the needs below our belly button, and we can't look up to see the bigger picture.
 <br><br>
-The scenario is a fence of already worn and outdated wood, which hinders the visualization of a perceptible blue sky through the holes and grooves. This scenario can be interpreted by the fence being the old politics, which still surrounds us even though we can already see small holes that lead us to a more expansive view of the world.
+The scenery is an already worn and outdated wooden fence, which hinders the visualization of a perceptible blue sky through the holes and grooves. This scenario can be interpreted as the fence being the old policy, which still surrounds us despite the fact that we can already see small holes that lead us to a more expansive view of the world.
 "
 ---

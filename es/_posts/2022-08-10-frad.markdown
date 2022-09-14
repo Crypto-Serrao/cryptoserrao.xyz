@@ -1,5 +1,6 @@
 ---
 layout: default
+lang: es
 modal-id: 10
 date: 2014-07-17
 alt: image-alt
@@ -10,7 +11,7 @@ artist: frad
 artist-img: FRAD.jpeg
 # instagram: 7fr4d
 instagram: rabisco_e_tinta
-artist-bio: "Me chamo, jefferson, resido no aglomerado da serra. Meu contato com a arte vem desde pequeno e sempre fui fascinado pelos graffites que coloriam a cidade, dessa forma comecei os primeiros desenhos no caderno e assim tentei expandi-los, tanto nas paredes quanto na internet."
+artist-bio: "So, bro. My name is Jefferson, better known as Frad out there. I am born and raised in Serra, Belo Horizonte. I always doodled, I always drew. Art has always been present in all aspects. Also in writing, in one's way of speaking, of expressing thyself. The art I think I'm most involved in is drawing and music. I try to pass everything I live on to the painting, to the canvas, and to the walls too. I think art is freedom, I want everyone to do their art without fear, whoever wants to tattoo, draw, sing, they shall sing."
 
 
 # OBRA
@@ -18,5 +19,5 @@ title: Noite de baile
 nft-link: https://teia.art/objkt/770324
 img: Noite-de-baile-Frad.jpeg
 category: Artes Visuais
-description: "Essa obra representa o estilo de moradores da periferia que frequentam bailes funks, no qual vários deles(as) usam tênis da mesma marca."
+description: "Yo! This is the sneaker we see the most on the feet of the crowd. And the brand is part of our daily lives, because since we were little, we dreamt of having a good looking sneaker. And not only a shoe, but also a shirt, a sports shirt. That's why I put the Brazilian flag on the tongue of the footwear, right? And the favela looks this way, with the lights on, because the flow starts at night. And it's at night that you put on your sneakers to show off, to be elegant, to stay cool. And the crowded favela there means that there is an agglomeration of people. A lot of bros and chicks together at the party."
 ---

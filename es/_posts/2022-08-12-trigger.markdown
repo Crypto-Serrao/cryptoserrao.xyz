@@ -1,5 +1,6 @@
 ---
 layout: default
+lang: es
 modal-id: 12
 date: 2014-07-14
 alt: image-alt
@@ -10,25 +11,25 @@ artist: Trigger
 artist-img: Trigger - Alexsandro Silva.jpg
 instagram: trigger_s.a
 twitter: NFTreta
-artist-bio: "Alexsandro Trigger, 28 anos morador do Morro do Papagaio em Belo Horizonte/MG. Graduando em museologia pela UFMG, produtor cultural, artista visual com foco em pesquisa de processos audiovisuais analógicos, questões étnico-raciais, periféricas, museológicas e de matriz africana. Coordenador do Muquifu, Museu dos Quilombos e Favelas Urbanos, integrante dos coletivos: Isto Não é um Sarau; Museologia Kilombola; Hunko Letivo e Coletivo Mofo."
+artist-bio: "Alexsandro Trigger, 28 years old, resident of Morro do Papagaio, in Belo Horizonte/MG. Studies museology at UFMG, is a cultural producer and a visual artist with a focus on research on analog audiovisual processes, ethnic-racial issues, suburb matters, museological and African-based questions. Coordinator of Muquifu, Museum of Quilombos and Urban Favelas, member of the collectives: Isto Não é um Sarau; Kilombola Museology; Hunko Letivo and Colectivo Mofo."
 
 # OBRA
 title: Só Lazer
 category: Fotografia
 img: alexsandro-silva.jpg
 nft-link: https://teia.art/objkt/771887
-description: "Essa foto eu fiz experimentando um filme que estava vencido mirando uma superexposição, o resultado foram essas fotos muito granuladas e pouco nítidas. Eu gosto dessa série porque me lembra muito as fotos antigas que temos daqui da quebrada, me remete a um tempo em que o acesso era raríssimo, poder reproduzir essa estética ainda que de forma experimental hoje nada mais é do que um privilégio. Eu gosto muito dessa ideia quase contraditória de trazer o analógico para ápice do que temos de acesso e consumo a imagens e artes digitais no geral, uma NFT analógica... É possível? Acredito que sim!
+description: "This photo I took trying out a film that was expired, aiming for an overexposure. The result was very grainy and unclear photos. I like this series because it reminds me a lot of the old photos we have here in the shanty town. It takes me to a time when access was very rare, being able to reproduce this aesthetic even in an experimental way today is nothing less than a privilege. I really like this almost contradictory idea of ​​bringing analog to the apex of what we have of access and consumption of digital images and arts in general, an analog NFT... Is it possible? I think so!
 <br/><br/>
-Partindo do mote proposto, o Modernismo, acho que esta proposta dialoga muito com a ideia ou ainda proposta de modernizar o analógico, ainda que seja apenas um simulacro formado por “zeros” e “uns”. Sempre quando penso nisso me veio o monólogo de Chico Science na cabeça:
+Starting from the motto proposed by Crypto/Serrão, Modernism, I think that this proposal dialogues a lot with the idea or proposal of modernizing the analog, even if it is just a simulacrum formed by “zeros” and “ones”. Whenever I think about it, Chico Science's monologue comes to my mind:
 <br/><br/>
-Modernizar o passado<br/>
-É uma evolução musical<br/>
-Cadê as notas que estavam aqui<br/>
-Não preciso delas!<br/>
-Basta deixar tudo soando bem aos ouvidos.
+modernize the past<br/>
+It's a musical evolution<br/>
+Where are the notes that were here?<br/>
+I don't need them!<br/>
+Just let it all sound good to the ears<br/>
+<br/>
+This tells me that no matter how hard I try to reproduce the past, it will only be an attempt. Just do it the best way I can, and get as close to my initial goal as possible.
 <br/><br/>
-Isso me diz que, por mais que eu tente reproduzir o passado isso não passará de uma tentativa. Basta fazer da melhor forma que eu conseguir, e deixar o mais próximo do meu objetivo inicial.
-<br/><br/>
-Foto feita em 2018 em um lomo Xpro forçado utilizando uma Pentax K1000.
+Photo taken in 2018 on a forced lomo Xpro using a Pentax K1000.
 "
 ---

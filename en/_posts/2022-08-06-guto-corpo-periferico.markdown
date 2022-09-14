@@ -1,29 +1,30 @@
 ---
 layout: default
+lang: en
 modal-id: 6
 date: 2022-09-01
 alt: image-alt
 project-date: April 2014
 
 # ARTISTA
-artist: Gustavo Martin
+artist: Gustavo Martins
 artist-img: Guto - Gustavo Dias.png
 instagram: gutom_arte
 twitter: gutom_arte
-artist-bio: "Ei, meu nome é Gustavo Martins, mas vc pode me chamar de Guto! Tenho 28 anos y sou natural de Belo Horizonte, Minas Gerais. Comecei a pintar em 2016, a fim de ilustrar meu primeiro blog \"Um ex adolescente\", no qual publicava poemas, contos, crônicas, com pinturas em aquarela. Por meio da arte, busco narrar vivências enquanto um garoto preto, gay e periférico, O Alto Vera Cruz, bairro no qual cresci, tem forte influência nestas experiências."
+artist-bio: "Hey, my name is Gustavo Martins, but you can call me Guto! I'm 28 years old and I'm from Belo Horizonte, Minas Gerais. I started painting in 2016 in order to illustrate my first blog \"Um ex adolescent\", in which I published poems, short stories, chronicles, with watercolor paintings. Through art, I seek to narrate experiences as a black, gay and peripheral boy. Alto Vera Cruz, the neighborhood in which I grew up, has a strong influence on these experiences."
 
 # OBRA
 title: Corpo periférico
 category: Pintura
 img: guto-corpo-periferico.png
 nft-link: https://teia.art/objkt/770865
-description: "A Semana de arte Moderna foi realizada após 100 anos da Independência do Brasil e buscava criar uma imagem do ser brasileiro. Entretanto, durante os anos anteriores, povos escravizados recém \"\"libertos\"\" foram deixados a mercê da auto sobrevivência. 
+description: "The Modern Art Week was held after 100 years of Brazil's Independence, and sought to create an image of what it means to be Brazilian. However, during the previous years, newly \"freed\" enslaved peoples were left to self-survival.
 <br><br>
-Na época do movimento artístico, trabalhadores pobres, em maioria não brancos, foram expulsos de suas residências em regiões centrais.  Como a história da mulher Papuda que morava onde hoje é o Palácio da Liberdade (BH). A destruição do Curral Dela Rey, obrigou os moradores originais a saírem de suas residências, expulsando-os da região central para as periferia da cidade.
+At the time of the artistic movement, poor workers, mostly non-white, were expelled from their homes in central regions. Like the story of the Papuda woman who lived in what is now the Palácio da Liberdade (Belo Horizonte). The destruction of Curral Del Rey forced the original residents to leave their homes, expelling them from the Central region to the outskirts of the city.
 <br><br>
-Ao passo que houve crescimento da população periférica, uma das verdadeiras realidades do brasileiro, houve fortalecimento de quem detém de dinheiro e poder através do trabalho destas pessoas. 
+While there was a growth of the suburban population, one of the real realities of the Brazilian person, there was a strengthening of those who hold money and power through the work of these people.
 <br><br>
-Dentro das comunidades, um dos corpos que mais sofrem com os impactos da globalização é o da mãe - principalmente mães solo; que enfrentam riscos é dificuldades financeiras como sobrecarga mentem e maior acúmulo de tarefas. 
+Within communities, one of the bodies that most suffer from the impacts of globalization is that of the mother – especially single mothers; who face financial risks and difficulties such as overload, and maintain a greater backlog of tasks.
 <br><br>
-Essa pintura em aquarela é inspirada na escultura Vênus de Willendorf e idealiza a mãe preta, representação da fertilidade, a mesma que se posiciona na linha de frente da periferia. As sobreposições dos membros denotam como esse corpo se divide para dar conta dos inúmeros deveres que caem sob esse ser. Essa é uma das verdadeiras brasilidades." 
+This watercolor painting is inspired by the Venus sculpture by Willendorf and idealizes the black mother, a representation of fertility, the same one who stands on the front line of the Brazilian suburbs. The overlapping of the limbs denote how this body is divided to take care of the numerous duties that fall on this being. This is one of the true Brazilians." 
 ---

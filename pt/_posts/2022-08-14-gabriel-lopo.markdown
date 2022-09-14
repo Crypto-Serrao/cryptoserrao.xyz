@@ -9,20 +9,20 @@ project-date: April 2014
 # ARTISTA
 artist: Gabriel Lopo
 artist-img: Gabriel Lopo 1 - Gabriel Lopo.jpeg
-artist-bio: "Sou natural de Montes Claros, 1997, vivo e trabalho no Bairro Concórdia, em Belo Horizonte. Criado em um berço miscigenado e evangélico, fui ativista de movimentos sociais por 8 anos. Estudo Jornalismo na UFMG. Em 2021, iniciei minha carreira nas artes. Trabalho com a pintura em suportes variados. Minha poética explora as tensões da mestiçagem, investigando a história da sua comunidade, na busca por uma representação digna e não-estereotipada dos sujeitos ditos subalternos. "
+artist-bio: "Nascido em Montes Claros, no Norte de Minas Gerais, e radicado em Belo Horizonte, discute assuntos ligados à distribuição desigual do desenvolvimento, racialidades e ideologia. Busca elaborar a ideia do artista como comunicador, decodificador e agente intelectual. Além da pesquisa e obra na arte, trabalha com produção cultural. Colabora em projetos do SESC MG e do Fórum das Juventudes da Grande BH. Coordena o Laboratório Guará, uma plataforma de articulação entre arte, cultura e comunicação. É graduando em Jornalismo pela UFMG."
 
 instagram: gabriellopoo
 # instagram: zezito.art
 
 # OBRA
-title: Gão Du Corte
+title: Corte da Aranha
 nft-link: https://teia.art/objkt/773349
 img: gabriel-lopo-grao-du-corte.png
 category: Pintura
-description: "Gãu Du Corte, 2022 <br>
+description: "Corte da Aranha, 2022 <br>
 47 x 66 cm - Acrílica no Papel Pardo <br>
 <br> 
 
-O Bairro Concórdia é a primeira vila operária de BH, fundada em 1929 com ex-moradores da favela Barroca, que ficava onde hoje é o Barro Preto. o Concórdia preserva até hoje um perfil de moradores das classes mais populares e com forte presença negra. Ainda que próximo ao centro, o Concórdia é um subúrbio com forte expressão das culturas periféricas, populares e afro-brasileiras. A estética e o cuidado do cabelo estão nesse campo de expressões. Há poucos metros da minha casa tem o salão do Gão, chamado Gão du Corte. Nos principais comércios do bairro podemos encontrar banners de divulgação do salão. Um dos cortes tradicionais feitos pelo Gão é o disfarçado acompanhado de um desenho e um dos desenhos feitos por Gão é a aranha. Esse corte também é feito por muitas crianças. Além do corte, em BH, temos o funk “Tatuagem da Aranha” que é muito conhecido por vários jovens. A obra “Gão Du Corte” mobiliza esses referenciais para construir uma poética interna. Não há um entendimento certo para a obra, cada pessoa pode ter uma experiência individual, por outro lado esses referenciais podem ser um suporte interessante para essa experiência. 
+O MC Vitin do LC tem um funk chamado Tatuagem da Aranha, onde conta a história de um jovem de favela curtindo o seu fim de semana. A tatuagem da Aranha surge como um símbolo de comunicação. Eu moro no Bairro Concórdia, que nasceu do despejo de uma favela onde hoje é o Barro Preto em BH.  Aqui no bairro, várias crianças fazem um corte de cabelo que consiste no tradicional “disfarçado” com uma aranha desenhada na nuca. Esse corte reafirma a aranha como elemento de comunicação entre jovens de territórios periféricos. A pintura Corte da Aranha tenta dar conta dessa dimensão poética.  
 " 
 ---

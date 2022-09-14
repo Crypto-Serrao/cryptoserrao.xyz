@@ -1,0 +1,32 @@
+---
+layout: default
+lang: en
+modal-id: 13
+date: 2014-07-15
+alt: image-alt
+project-date: April 2014
+
+# ARTISTA
+artist: zezito
+artist-img: zezito - José Victor Mendes Dias.jpg
+artist-bio: "I'm José Victor, aka zezito. I am 19 years old, I was born and raised in the east side of Belo Horizonte. My contact with art began with illustration and then I went through painting, photography, audiovisual production, among many other forms of expression and representation.<br>
+<br>
+Art occupies a very important place in my life, pushing me at all times. Through it I try to represent a little bit of what I live and see, being a young black man, from a suburb, and being part of the LGBTQ+ community.<br>
+<br>
+Currently, I have ventured into the development of digital paintings, exploring and learning a lot in this infinite world of possibilities.
+"
+instagram: vj.md
+# instagram: zezito.art
+
+# OBRA
+title: quedA
+nft-link: https://teia.art/objkt/770312
+img: victor-mendes.jpg
+category: Arte Digital
+description: "\"Olhei no espelho, Ícaro me encarou...\" (I looked in the mirror, Icarus looked at me)<br>
+<br>
+Excerpt from the song Ismália, by Emicida, which has been perpetuated in my mind since 2019, when I produced this work. As time passes, since its conception, the more sense it seems to make.<br>
+<br>
+A reflection on the fragility of conquests and disproportionate demand directed at a people. In a society where error is decisive and in order to be, it is necessary to be twice as much.
+" 
+---

@@ -1,0 +1,30 @@
+---
+layout: default
+lang: es
+modal-id: 4
+date: 2014-07-15
+alt: image-alt
+project-date: April 2014
+
+# ARTISTA
+artist: LadoBeco
+artist-img: LadoBeco - bernardo cosme do amaral.jpg
+instagram: bernardo_ladobeco
+artist-bio: "Nacido y criado en Belo Horizonte - MG, en el barrio de Lagoinha, se está graduando en Bellas Artes en Guignard (Universidad del Estado de Minas Gerais). Comenzó su trabajo con el graffiti y el street art hace 15 años y se unió al grupo Arte Urbana Rupestre. Trabajó como monitor de taller de graffiti para el programa social Fica Vivo, Projovem y para el colectivo Fábrica de Graffiti."
+
+
+# OBRA
+title: Stones against the rock
+img: lado-beco.jpg
+nft-link: https://teia.art/objkt/774646
+category: Pintura
+description: "El concepto de la obra es demostrar simultáneamente algo elemental y dudoso referenciado en un juego infantil. En él traigo dos personajes en los que uno se apoya en la fuerza del otro. Sus características físicas pueden entenderse como la pirámide social que se compone de una base amplia, pero limitada en recursos, por eso la persona azul es más pequeña y delgada. El personaje rojizo es más grande, a pesar de ser igualmente delgado, lo que puede demostrar que tanto la base como la cúspide de la pirámide carecen de algo que los nutra de verdad.
+<br><br>
+El personaje rojizo tiene una honda, lo que demuestra que la pirámide superior está equipada con un arma mientras está sostenida por la base, que incluso con su limitación y desventaja de recursos sostiene la parte superior. La principal duda es el hecho de que ambos personajes tienen los ojos vendados, tienen armas, objetivo, pero no visión, lo que hace más compleja la lucha contra un verdadero enemigo.
+<br><br>
+Sus colores pueden relacionarse con el momento actual de polarización política en nuestro país, en el que estamos en el mismo lugar, pero divididos. Y sin visión, no podemos mirar hacia abajo para ver las necesidades debajo de nuestro ombligo, y no podemos mirar hacia arriba para ver el panorama general.
+
+<br><br>
+El escenario es una valla de madera ya desgastada y anticuada, lo que dificulta la visualización de un cielo azul perceptible a través de los agujeros y ranuras. Este escenario puede interpretarse como el cerco de la vieja política, que aún nos rodea a pesar de que ya podemos ver pequeños agujeros que nos llevan a una visión más amplia del mundo.
+"
+---

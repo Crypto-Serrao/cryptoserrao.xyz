@@ -1,0 +1,22 @@
+---
+layout: default
+modal-id: 1
+lang: pt
+date: 2022-09-01
+alt: image-alt
+project-date: April 2014
+
+# ARTISTA
+artist: Prince Willand Cabal
+artist-img: Willand - Wulliam Castro.HEIC
+instagram: Willand1_
+artist-bio: "William De Castro Pacheco da Silva, nascido no aglomerado da Serra, 21 anos, artista periférico independente, dançarino de vogue. É fomentador e produtor da cultura Ballroom no Brasil e representante da House of Cabal no título de \"Prince\". Iniciou seus estudos em 2019 através de oficinas gratuitas oferecidas pelo Centro Cultural Lá da Favelinha, um centro cultural independente localizado no Aglomerado da Serra. "
+
+# OBRA
+title: OTA performance 10s kiki pink ball
+category: Dança
+img: willand.jpg
+video: https://nftstorage.link/ipfs/QmYanDPaKyc9H4VdHthuLSYWqhHHcYGfe51ENgyGL9S4Ls
+nft-link: https://teia.art/objkt/770340
+description: "Apresentação de dança no segmento artístico ballroom, trata-se de um vídeo de 10s, que é uma amostra daquilo que se domina dentro da categoria, no caso, \"tens\" de vogue femme (categoria dançada dentro da comunidade ballroom)." 
+---

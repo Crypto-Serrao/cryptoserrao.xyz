@@ -1,6 +1,7 @@
 ---
 layout: default
 modal-id: 9
+lang: pt
 date: 2014-07-17
 alt: image-alt
 project-date: April 2014
@@ -9,7 +10,7 @@ project-date: April 2014
 artist: Luscas Gonçalves de
 artist-img: Luscas - Luscas Gonçalves.jpg
 instagram: luscasgoncalvesde
-artist-bio: "Luscas Gonçalves de é ator, estudante de Letras, autor e pesquisador. Está em cena nos espetáculos da Trupe Estrela; no experimento cênico Com a licença de Cruz e Sousa; no seu trabalho solo Campo Minado; nos últimos anos esteve em contato com o Open Program, do Workcenter of J. Grotowski and Thomas R. (Itália), tendo a oportunidade de apresentar, na Turquia, o trabalho The Hidden Sayings, repertório do grupo, como também em Sedentos, desenvolvido em Londrina; pesquisa sobre cantos de."
+artist-bio: "Luscas Gonçalves de é ator, estudante de Letras, autor e pesquisador. Está em cena nos espetáculos da Trupe Estrela; no experimento cênico Com a licença de Cruz e Sousa; no seu trabalho solo Campo Minado; nos últimos anos esteve em contato com o Open Program, do Workcenter of J. Grotowski and Thomas R. (Itália), tendo a oportunidade de apresentar, na Turquia, o trabalho The Hidden Sayings, repertório do grupo, como também em Sedentos, desenvolvido em Londrina; pesquisa sobre os Vissungo, canto afro-mineiro."
 
 
 # OBRA

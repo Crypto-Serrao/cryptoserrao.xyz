@@ -1,0 +1,22 @@
+---
+layout: default
+lang: en
+modal-id: 1
+date: 2022-09-01
+alt: image-alt
+project-date: April 2014
+
+# ARTISTA
+artist: Prince Willand Cabal
+artist-img: Willand - Wulliam Castro.HEIC
+instagram: Willand1_
+artist-bio: "William De Castro Pacheco da Silva, born in the Serra neighborhood, 21 years old, independent peripheral artist, vogue dancer. He is a promoter and producer of Ballroom culture in Brazil and representative of the House of Cabal in the title of \"Prince\". He began his studies in 2019 through free workshops offered by Centro Cultural Lá da Favelinha, an independent cultural center located in Aglomerado da Serra."
+
+# OBRA
+title: TENS O.T.A PINK BALL
+category: Dança
+img: willand.jpg
+video: https://nftstorage.link/ipfs/QmYanDPaKyc9H4VdHthuLSYWqhHHcYGfe51ENgyGL9S4Ls
+nft-link: https://teia.art/objkt/770340
+description: "Dance presentation in the ballroom artistic segment, it is a 10s video, which is a sample of what is mastered within the category, in this case, \"tens\" of vogue femme (category danced within the ballroom community)." 
+---

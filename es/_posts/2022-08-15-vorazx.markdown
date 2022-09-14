@@ -1,0 +1,24 @@
+---
+layout: default
+lang: es
+modal-id: 15
+date: 2014-07-15
+alt: image-alt
+project-date: April 2014
+
+# ARTISTA
+artist: Vorazx
+artist-img: Vorazx.jpg
+artist-bio: "Adson Souza Martins do Carmo, de 23 años, más conocido como Vorazx, es un artista del Este de Belo Horizonte. Criado en Alto Vera Cruz, vio en lo trap una forma de cambiar a la realidad, con sonidos que traen vivencias cotidianas y temas que gustan a todo favelado."
+
+instagram: v0razx
+twitter: vorazxreal 
+
+# OBRA
+title: 160
+nft-link: https://teia.art/objkt/772269
+img: vorazx-160.jpg
+audio-file: Vorazx - 160.mp3
+category: Música
+description: "Este trap se hizo porque casi perdí mi moto el año pasado debido a un paseo con las compañías equivocadas... En 2022, entrando en la cena de rap, tuve esta idea. Quise retratar un poco de nuestra experiencia, un poco de lo que nos gusta. Quería animar a la gente a buscar siempre el camino de la prosperidad, sin tonterías." 
+---

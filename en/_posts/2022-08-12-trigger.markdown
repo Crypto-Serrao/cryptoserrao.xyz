@@ -1,0 +1,36 @@
+---
+layout: default
+lang: en
+modal-id: 12
+date: 2014-07-14
+alt: image-alt
+project-date: April 2014
+
+# ARTISTA
+artist: Trigger
+artist-img: Trigger - Alexsandro Silva.jpg
+instagram: trigger_s.a
+twitter: NFTreta
+artist-bio: "Alexsandro Trigger, 28 years old, resident of Morro do Papagaio, in Belo Horizonte/MG. Studies museology at UFMG, is a cultural producer and a visual artist with a focus on research on analog audiovisual processes, ethnic-racial issues, suburb matters, museological and African-based questions. Coordinator of Muquifu, Museum of Quilombos and Urban Favelas, member of the collectives: Isto Não é um Sarau; Kilombola Museology; Hunko Letivo and Colectivo Mofo."
+
+# OBRA
+title: Só Lazer
+category: Fotografia
+img: alexsandro-silva.jpg
+nft-link: https://teia.art/objkt/771887
+description: "This photo I took trying out a film that was expired, aiming for an overexposure. The result was very grainy and unclear photos. I like this series because it reminds me a lot of the old photos we have here in the shanty town. It takes me to a time when access was very rare, being able to reproduce this aesthetic even in an experimental way today is nothing less than a privilege. I really like this almost contradictory idea of bringing analog to the apex of what we have of access and consumption of digital images and arts in general, an analog NFT... Is it possible? I think so!
+<br/><br/>
+Starting from the motto proposed by Crypto/Serrão, Modernism, I think that this proposal dialogues a lot with the idea or proposal of modernizing the analog, even if it is just a simulacrum formed by “zeros” and “ones”. Whenever I think about it, Chico Science's monologue comes to my mind:
+<br/><br/>
+<i>modernize the past<br/>
+It's a musical evolution<br/>
+Where are the notes that were here?<br/>
+I don't need them!<br/>
+Just let it all sound good to the ears<br/>
+</i>
+<br/>
+This tells me that no matter how hard I try to reproduce the past, it will only be an attempt. Just do it the best way I can, and get as close to my initial goal as possible.
+<br/><br/>
+Photo taken in 2018 on a forced lomo Xpro using a Pentax K1000.
+"
+---

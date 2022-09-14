@@ -4,15 +4,13 @@
             <div class="container">
                 <div class="row">
                     <div class="footer-col col-md-4">
-                        <h3>{{ site.footer.location }}</h3>
+                        <h3>{{ site.data.translations['footer']['location'][page.lang] }}</h3>
                         <p>
-                            {% for adress in site.address %}
-                                {{ adress.line }} <br>
-		                    {% endfor %}
+                            {{ site.data.translations['footer']['address'][page.lang] }}
                         </p>
                     </div>
                     <div class="footer-col col-md-4">
-                        <h3>{{ site.footer.social }}</h3>
+                        <h3>{{ site.data.translations['footer']['social'][page.lang] }}</h3>
                         <ul class="list-inline">
                             {% for network in site.social %}
                             <li>
@@ -22,15 +20,15 @@
                         </ul>
                     </div>
                     <div class="footer-col col-md-4">
-                        <h3>{{ site.footer.credits }}</h3>
-                        <p>{{ site.credits }}</p>
+                        <h3>{{ site.data.translations['footer']['creditsTitle'][page.lang] }}</h3>
+                        <p>{{ site.data.translations['footer']['creditsText'][page.lang] }}</p>
                     </div>
                 </div>
             </div>
         </div>
         <div class="footer-below">
             <div class="container">
-                <img class="img-responsive" src="img/PBH.png" alt="profile-pic" />
+                <img class="img-responsive" src="{{ site.baseurl }}img/PBH.png" alt="profile-pic" />
                 <!-- <div class="row">
                     <div class="col-lg-12">
                         Copyright &copy; {{ site.footer.copyright }} 20{{ site.time | date: '%y' }}

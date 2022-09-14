@@ -1,0 +1,23 @@
+---
+layout: default
+lang: es
+modal-id: 10
+date: 2014-07-17
+alt: image-alt
+project-date: April 2014
+
+# ARTIST
+artist: frad
+artist-img: FRAD.jpeg
+# instagram: 7fr4d
+instagram: rabisco_e_tinta
+artist-bio: "Vale, hermano. Mi nombre es Jefferson, más conocido como Frad por ahí. Nací y crecí en la Sierra. Siempre garabateé, siempre dibujé. El arte siempre ha estado presente en todos los aspectos. También en la escritura, en la forma de hablar, de expresarse. El arte en el que creo que estoy más involucrado es el dibujo y la música. Intento pasar todo lo que vivo al cuadro, al lienzo y también a la pared. Creo que el arte es libertad, quiero que todos hagan su arte sin miedo, quien quiera tatuarse, quien quiera dibujar, quien quiera cantar, que cante."
+
+
+# OBRA
+title: Noite de baile
+nft-link: https://teia.art/objkt/770324
+img: Noite-de-baile-Frad.jpeg
+category: Artes Visuais
+description: "¡Hola! Esta es la zapatilla que más vemos en los pies de la multitud. Y la marca forma parte de nuestro día a día, porque desde pequeños soñamos con tener unas zapatillas deportivas bonitas. Y no solo tenis, sino también camiseta, camiseta deportiva. Por eso puse la bandera de Brasil en la lengua. Y la favela como está, con las luces encendidas, es porque el flujo empieza de noche. Y es por la noche cuando te calzas las zapatillas para lucirte, para ser elegante, para mantenerte fresco. Y la favela abarrotada allí significa que es una aglomeración de personas. Mucho hermano y mucha chica juntos allí en la fiesta."
+---

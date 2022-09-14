@@ -1,0 +1,24 @@
+---
+layout: default
+lang: en
+modal-id: 15
+date: 2014-07-15
+alt: image-alt
+project-date: April 2014
+
+# ARTISTA
+artist: Vorazx
+artist-img: Vorazx.jpg
+artist-bio: "Adson Souza Martins do Carmo, 23, better known as Vorazx, is an artist from the east of Belo Horizonte. Raised in the Alto Vera Cruz neighborhood, he saw in trap music a way to change reality, with sounds that bring everyday experiences and themes that every favelado likes."
+
+instagram: v0razx
+twitter: vorazxreal 
+
+# OBRA
+title: 160
+nft-link: https://teia.art/objkt/772269
+img: vorazx-160.jpg
+audio-file: Vorazx - 160.mp3
+category: Música
+description: "This trap song was made because I almost lost my motorbike last year due to a ride with the wrong companies... In 2022, entering the rap scene, I had this idea. And I also wanted to portray a little of our experience, a little of what we like. I wanted to encourage those who listen to 160 to always seek the path of prosperity, without getting their arses busted." 
+---

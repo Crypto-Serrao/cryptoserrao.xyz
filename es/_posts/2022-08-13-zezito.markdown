@@ -1,5 +1,6 @@
 ---
 layout: default
+lang: es
 modal-id: 13
 date: 2014-07-15
 alt: image-alt
@@ -8,8 +9,12 @@ project-date: April 2014
 # ARTISTA
 artist: zezito
 artist-img: zezito - José Victor Mendes Dias.jpg
-artist-bio: "Nascido e criado na zona Leste de BH, sou José Victor e atualmente tenho 19 anos. 
-Cresci em uma família incrível que me proporcionou um ambiente muito amável."
+artist-bio: "Soy José Victor, alias zezito. Tengo 19 años, nací y crecí en el Este de Belo Horizonte. Mi contacto con el arte comenzó con la ilustración y luego pasé por la pintura, la fotografía, la producción audiovisual, entre muchas otras formas de expresión y representación.
+<br><br>
+El arte ocupa un espacio muy importante en mi vida, empujándome en todo momento. A través de él trato de representar un poco de lo que vivo y veo, siendo un joven negro, periférico y siendo parte de la comunidad LGBTQ+.
+<br><br>
+Actualmente, he incursionado mucho en el desarrollo de pinturas digitales, explorando y aprendiendo mucho en este mundo de infinitas posibilidades.
+"
 instagram: vj.md
 # instagram: zezito.art
 
@@ -18,5 +23,10 @@ title: quedA
 nft-link: https://teia.art/objkt/770312
 img: victor-mendes.jpg
 category: Arte Digital
-description: "\"Olhei no espelho, Ícaro me encarou...\" <br/> Frase que desde de 2019, quando produzi essa obra, perpetua pela minha mente. Quanto mais tempo passa desde a sua concepção, mais sentido aparenta fazer, em situações tão diferentes." 
+description: "\"Me miré en el espejo, Ícaro me miró...\".<br><br>
+
+Extracto de la canción Ismália, de Emicida, que se ha perpetuado en mi mente desde 2019, cuando produje este trabajo. A medida que pasa el tiempo, desde su concepción, más sentido parece tener.<br><br>
+
+Una reflexión sobre la fragilidad de las conquistas y la demanda desmedida dirigida a un pueblo. En una sociedad donde el error es decisivo y para ser hay que serle en doble.
+" 
 ---

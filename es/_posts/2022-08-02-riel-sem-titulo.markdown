@@ -1,5 +1,6 @@
 ---
 layout: default
+lang: es
 modal-id: 2
 date: 2022-09-01
 alt: image-alt
@@ -8,12 +9,15 @@ project-date: April 2014
 # ARTISTA
 artist: Riel
 artist-img: Riel - Gabriel Soares.jpg
-artist-bio: "Me chamo Gabriel Araújo Soares, sou estudante de Artes Visuais na Universidade Federal de Minas Gerais, morador de periferia e auto declarado pardo. Sobre minha produção artística, apesar de explorar múltiplas habilitações dentro das artes visuais, meu foco tem sido na pintura, onde tenho desenvolvido meu trabalho em torno de questões como desigualdade, racismo e principalmente violência."
+artist-bio: "Mi nombre es Riel, soy estudiante de Artes Visuales en la Universidad Federal de Minas Gerais, residente de la periferia y moreno. En relación a mi producción artística, exploro múltiples capacidades dentro de las artes visuales, con la pintura como foco principal, desarrollando mi trabajo en torno a temas como la desigualdad social, el racismo y especialmente la violencia urbana."
 
 # OBRA
 title: Insegurança pública 1
 category: Pintura
 img: Riel-SemTitulo.jpg
 nft-link: https://teia.art/objkt/770329
-description: "É uma pintura a óleo pertencente a série  \"insegurança pública\". Na pintura usei como referência um registro fotográfico da ditadura militar brasileira e uma foto de uma amiga negra. O objetivo da série  é a partir do fazer artístico refletir sobre as imagens de violência enquanto mecanismos de opressão e resistência durante o período da ditadura militar brasileira, considerando os aspectos de raça, classe e gênero; e pensar nas semelhanças e diferenças com as imagens de violência nos dias atuais. A metodologia é criar obras visual de pintura e “ instalação” inspiradas nas imagem de violência de mídias e de documentos oficiais do período da ditadura militar e dos dias atuais, refletindo sobre os atravessamentos de raça, classe e gênero." 
+description: "Pintura al óleo perteneciente a la serie \"Público\". En la obra que tomé como referencia, un registro fotográfico mediático que denunciaba la violencia de la dictadura militar de 1964 contra una joven blanca, opté por hacer una reinterpretación reemplazando a la víctima por una mujer negra con la intención de dar visibilidad a los negros que también fueron víctimas de la violencia del dictador a pesar de no estar en los titulares de periódicos la época.
+<br><br>
+El objetivo de esta serie es reflexionar sobre las imágenes de violencia como mecanismos de opresión y resistencia durante el período de la dictadura militar brasileña, considerando los aspectos de raza, clase y género. Además, discute las similitudes y diferencias en la violencia urbana entre el período dictatorial y la actualidad.
+" 
 ---

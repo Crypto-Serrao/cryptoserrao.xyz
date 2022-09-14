@@ -10,7 +10,7 @@ project-date: April 2014
 artist: LadoBeco
 artist-img: LadoBeco - bernardo cosme do amaral.jpg
 instagram: bernardo_ladobeco
-artist-bio: "Nascido e Criado em Belo Horizonte – MG na região do bairro Lagoinha, é graduando em Artes Plásticas, pela Guignard – Universidade do Estadual de Minas Gerais. Iniciou seu trabalho com o graffiti e arte de rua há 15 anos e se integrou ao grupo de Arte Urbana Rupestre. Atuou como monitor de oficina de grafitti para o programa social Fica Vivo, Projovem e para o coletivo Fábrica de Graffiti."
+artist-bio: "Nacido y criado en Belo Horizonte - MG, en el barrio de Lagoinha, se está graduando en Bellas Artes en Guignard (Universidad del Estado de Minas Gerais). Comenzó su trabajo con el graffiti y el street art hace 15 años y se unió al grupo Arte Urbana Rupestre. Trabajó como monitor de taller de graffiti para el programa social Fica Vivo, Projovem y para el colectivo Fábrica de Graffiti."
 
 
 # OBRA
@@ -18,12 +18,13 @@ title: Stones against the rock
 img: lado-beco.jpg
 nft-link: https://teia.art/objkt/774646
 category: Pintura
-description: "The concept of the work is to simultaneously demonstrate something elementary and dubious referenced in a children's game. In it I bring two personas in which one is sustained by the force of the other, their physical characteristics can be understood as the social pyramid that is composed of a wide base, but limited in resources and therefore the blue persona is smaller and more frail.
+description: "El concepto de la obra es demostrar simultáneamente algo elemental y dudoso referenciado en un juego infantil. En él traigo dos personajes en los que uno se apoya en la fuerza del otro. Sus características físicas pueden entenderse como la pirámide social que se compone de una base amplia, pero limitada en recursos, por eso la persona azul es más pequeña y delgada. El personaje rojizo es más grande, a pesar de ser igualmente delgado, lo que puede demostrar que tanto la base como la cúspide de la pirámide carecen de algo que los nutra de verdad.
 <br><br>
-The red persona is larger, although equally frail, which may demonstrate that both the base and the top of the pyramid are insufficient in something that really nourishes them. The red persona has a slingshot, which demonstrates that the top of the pyramid is armed while being sustained by the base, which even with its limitation and disadvantage of resources sustains the top. The main question is given to the fact that both personas are blindfolded, they have the weapon, the target, but they do not have the vision, which makes the fight against the true enemy more complex.
+El personaje rojizo tiene una honda, lo que demuestra que la pirámide superior está equipada con un arma mientras está sostenida por la base, que incluso con su limitación y desventaja de recursos sostiene la parte superior. La principal duda es el hecho de que ambos personajes tienen los ojos vendados, tienen armas, objetivo, pero no visión, lo que hace más compleja la lucha contra un verdadero enemigo.
 <br><br>
-Their colors can be related to the current moment of political polarization of our country in which we are in the same place, but divided. And without vision, we cannot look down to see the needs below our navel, nor look up to have a broader vision.
+Sus colores pueden relacionarse con el momento actual de polarización política en nuestro país, en el que estamos en el mismo lugar, pero divididos. Y sin visión, no podemos mirar hacia abajo para ver las necesidades debajo de nuestro ombligo, y no podemos mirar hacia arriba para ver el panorama general.
+
 <br><br>
-The scenario is a fence of already worn and outdated wood, which hinders the visualization of a perceptible blue sky through the holes and grooves. This scenario can be interpreted by the fence being the old politics, which still surrounds us even though we can already see small holes that lead us to a more expansive view of the world.
+El escenario es una valla de madera ya desgastada y anticuada, lo que dificulta la visualización de un cielo azul perceptible a través de los agujeros y ranuras. Este escenario puede interpretarse como el cerco de la vieja política, que aún nos rodea a pesar de que ya podemos ver pequeños agujeros que nos llevan a una visión más amplia del mundo.
 "
 ---

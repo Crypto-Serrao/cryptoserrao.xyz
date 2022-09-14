@@ -1,5 +1,6 @@
 ---
 layout: default
+lang: es
 modal-id: 5
 date: 2022-09-01
 alt: image-alt
@@ -9,7 +10,7 @@ project-date: April 2014
 artist: Heberte Almeida
 artist-img: Heberte Almeida - 06 - Foto por Deise Oliveira - Heberte Silva Almeida.jpg
 instagram: negro.amor
-artist-bio: "Heberte Almeida atua como cantor, compositor, multi-instrumentista e educador musical. Em 2020, lançou o álbum Negro Amor, seu primeiro trabalho em carreira solo. Neste mesmo período desenvolveu a pesquisa Poéticas do Morro por meio do Edital LAB Cultural do BDMG Cultural. O mesmo é um dos autores da trilha sonora original do filme No Coração do Mundo. Integra as bandas Pelos e Diplomattas, além de colaborar com diversos artistas da cena belorizontina."
+artist-bio: "Heberte Almeida trabaja como cantante, compositor, multi instrumentista y educador musical. En 2020, lanzó el álbum Negro Amor, su primer trabajo en solitario. En el mismo período, desarrolló la investigación Poéticas do Morro a través del Edital LAB Cultural, de BDMG Cultural. Es uno de los autores de la banda sonora original de la película En el corazón del mundo (2019). Integra las bandas Pelos y Diplomattas y colabora con varios artistas de la escena de Belo Horizonte."
 
 # OBRA
 title: Cafuza
@@ -17,8 +18,8 @@ category: Música
 img: cafuza.jpg
 audio-file: Cafuza.mp3
 nft-link: https://teia.art/objkt/770335
-description: "Cafuza surge como uma proposta de criação de um tema musical para a abertura do podcast Pelo Avesso. A composição instrumental desenvolve uma rítmica com elementos musicais que remetem a sonoridades indígenas e afro-brasileiras em uma trama com guitarras e texturas eletrônicas. A música carrega um sentimento de afirmação de uma brasilidade que se ergue pela força, beleza, resistência e encantos dos povos originários e das comunidades negras. Um Brasil que disputa o presente, relê o passado e visualiza o seu futuro nos braços, mentes e almas das pessoas negras e indígenas.
+description: "Cafuza surge como una propuesta para crear un tema musical para la apertura del podcast Pelo Avesso. La composición instrumental desarrolla un ritmo con elementos musicales que remiten a sonidos indígenas y afrobrasileños en una trama con guitarras y texturas electrónicas. La música lleva un sentimiento de afirmación de una brasilidad que se eleva por la fuerza, la belleza, la resistencia y los encantos de los pueblos originarios y las comunidades negras. Un Brasil que disputa el presente, relee el pasado y visualiza su futuro en los brazos, mentes y almas de negros e indígenas.
 <br><br>
-O referido podcast abordou a temática da eugenia e os desdobramentos nefastos dessa teoria racista nas estruturas, no imaginário e nas ações do estado e da sociedade brasileira. Embora, a música esteja presente no podcast Pelo Avesso ela nunca foi lançada.
+El podcast Pelo Avesso abordó el tema de la eugenesia y las consecuencias nocivas de esta teoría racista en las estructuras, en el imaginario y en las acciones del Estado y de la sociedad brasileña. Aunque la canción aparece en el podcast de Pelo Avesso, nunca se lanzó.
 " 
 ---

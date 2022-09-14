@@ -9,7 +9,7 @@ project-date: April 2014
 # ARTISTA
 artist: Gabriel Lopo
 artist-img: Gabriel Lopo 1 - Gabriel Lopo.jpeg
-artist-bio: "Born in Montes Claros, in the north of Minas Gerais, and based in Belo Horizonte, Gabriel Lopo discusses issues related to the unequal distribution of development, racialities and ideology. He seeks to elaborate the idea of ​​the artist as a communicator, decoder and intellectual agent. In addition to his research and work with art, he works with cultural production. Collaborates in projects of SESC MG and the Greater Belo Horizonte’s Youth Forum. He coordinates the Guará Laboratory, a platform for articulation between art, culture and communication, and is graduating in Journalism at UFMG."
+artist-bio: "Nacido en Montes Claros, en el norte de Minas Gerais, y radicado en Belo Horizonte, discute cuestiones relacionadas con la distribución desigual del desarrollo, racialidades y la ideología. Busca elaborar la idea del artista como comunicador, decodificador y agente intelectual. Además de la investigación y el trabajo en arte, trabaja con la producción cultural. Colabora en proyectos del SESC MG y del Foro de la Juventud de la Gran BH. Coordina el Laboratorio Guará, plataforma de articulación entre arte, cultura y comunicación. Se está graduando en Periodismo en la UFMG."
 
 instagram: gabriellopoo
 # instagram: zezito.art
@@ -19,11 +19,12 @@ title: Corte da Aranha
 nft-link: https://teia.art/objkt/773349
 img: gabriel-lopo-grao-du-corte.png
 category: Pintura
-description: "Corte da Aranha, 2022 <br>
-47 x 66 cm - Acrylic on Brown Paper <br>
+description: "Corte de Araña, 2022 <br>
+47 x 66 cm - Acrílico sobre Papel Marrón
+ <br>
 <br> 
 
-LC's MC Vitin has a funk called Tatuagem da Aranha (Spider's Tattoo), where he tells the story of a young man from a favela enjoying his weekend. The spider tattoo appears as a symbol of communication. I live in the Concórdia neighborhood, which was born from the eviction of a favela that is now called Barro Preto, in Belo Horizonte. Here in the neighborhood, several children get a haircut that consists of the traditional “disguised” haircut with a spider drawn on the back of the head. This cut reaffirms the spider as an element of communication between young people from peripheral territories. The painting Corte da Aranha tries to account for this poetic dimension.
+MC Vitin de LC tiene un funk llamado Tatuagem da Aranha, donde cuenta la historia de un joven residente de una favela que disfruta su fin de semana. El tatuaje de araña aparece como símbolo de comunicación. Yo vivo en el barrio Concórdia, que nació de una remoción de personas en una favela donde hoy esta el barrio Barro Preto en BH. Aquí varios niños tienen un corte de pelo que consiste en el tradicional “disfrazado” con una araña en la nuca. Este corte reafirma a la araña como elemento de comunicación entre jóvenes de territorios periféricos. La pintura Corte de Aranha trata de dar cuenta de su dimensión poética.
 
 " 
 ---

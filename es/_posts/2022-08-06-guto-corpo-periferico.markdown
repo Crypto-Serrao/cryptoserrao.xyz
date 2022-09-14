@@ -1,29 +1,30 @@
 ---
 layout: default
+lang: es
 modal-id: 6
 date: 2022-09-01
 alt: image-alt
 project-date: April 2014
 
 # ARTISTA
-artist: Gustavo Martin
+artist: Gustavo Martins
 artist-img: Guto - Gustavo Dias.png
 instagram: gutom_arte
 twitter: gutom_arte
-artist-bio: "Ei, meu nome é Gustavo Martins, mas vc pode me chamar de Guto! Tenho 28 anos y sou natural de Belo Horizonte, Minas Gerais. Comecei a pintar em 2016, a fim de ilustrar meu primeiro blog \"Um ex adolescente\", no qual publicava poemas, contos, crônicas, com pinturas em aquarela. Por meio da arte, busco narrar vivências enquanto um garoto preto, gay e periférico, O Alto Vera Cruz, bairro no qual cresci, tem forte influência nestas experiências."
+artist-bio: "¡Oye, mi nombre es Gustavo Martins, pero puedes llamarme Guto! Tengo 28 años y soy de Belo Horizonte, Minas Gerais. Empecé a pintar en 2016 con el fin de ilustrar mi primer blog \"Um ex adolescente\", en el que publicaba poemas, cuentos, crónicas, con pinturas en acuarela. A través del arte busco narrar experiencias como un chico negro, gay y periférico. Alto Vera Cruz, el barrio en el que crecí, tiene una fuerte influencia en estas experiencias."
 
 # OBRA
 title: Corpo periférico
 category: Pintura
 img: guto-corpo-periferico.png
 nft-link: https://teia.art/objkt/770865
-description: "A Semana de arte Moderna foi realizada após 100 anos da Independência do Brasil e buscava criar uma imagem do ser brasileiro. Entretanto, durante os anos anteriores, povos escravizados recém \"\"libertos\"\" foram deixados a mercê da auto sobrevivência. 
+description: "La Semana de Arte Moderno se realizó después de los 100 años de la Independencia de Brasil y buscó crear una imagen del ser brasileño. Sin embargo, durante los años anteriores, los pueblos esclavizados recién \"liberados\" se vieron obligados a sobrevivir por sí mismos.
 <br><br>
-Na época do movimento artístico, trabalhadores pobres, em maioria não brancos, foram expulsos de suas residências em regiões centrais.  Como a história da mulher Papuda que morava onde hoje é o Palácio da Liberdade (BH). A destruição do Curral Dela Rey, obrigou os moradores originais a saírem de suas residências, expulsando-os da região central para as periferia da cidade.
+En el tiempo del movimiento artístico, los trabajadores pobres, en su mayoría no blancos, fueron expulsados de sus hogares en las regiones centrales. Como la historia de la mujer Papuda que vivía en lo que ahora es el Palácio da Liberdade (BH). La destrucción de Curral Del Rey obligó a los habitantes originales a abandonar sus hogares, expulsándolos de la región Central hacia las afueras de la ciudad.
 <br><br>
-Ao passo que houve crescimento da população periférica, uma das verdadeiras realidades do brasileiro, houve fortalecimento de quem detém de dinheiro e poder através do trabalho destas pessoas. 
+Mientras hubo un crecimiento de la población periférica, una de las verdaderas realidades de los brasileños, hubo un fortalecimiento de los que tienen dinero y poder a través del trabajo de esa gente.
 <br><br>
-Dentro das comunidades, um dos corpos que mais sofrem com os impactos da globalização é o da mãe - principalmente mães solo; que enfrentam riscos é dificuldades financeiras como sobrecarga mentem e maior acúmulo de tarefas. 
+Dentro de las comunidades, uno de los cuerpos que más sufre los impactos de la globalización es el de la madre, especialmente las madres solteras; que se enfrentan a riesgos y dificultades financieras como la sobrecarga, y mantienen una mayor acumulación de tareas.
 <br><br>
-Essa pintura em aquarela é inspirada na escultura Vênus de Willendorf e idealiza a mãe preta, representação da fertilidade, a mesma que se posiciona na linha de frente da periferia. As sobreposições dos membros denotam como esse corpo se divide para dar conta dos inúmeros deveres que caem sob esse ser. Essa é uma das verdadeiras brasilidades." 
+Esta pintura a la acuarela está inspirada en la escultura Venus de Willendorf e idealiza a la madre negra, representación de la fertilidad, la misma que se encuentra en la primera línea de la periferia. La superposición de los miembros denotan cómo este cuerpo se divide para atender los numerosos deberes que recaen sobre este ser. Esta es una de las verdaderas brasilidades." 
 ---

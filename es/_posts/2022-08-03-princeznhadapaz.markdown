@@ -1,5 +1,6 @@
 ---
 layout: default
+lang: es
 modal-id: 3
 date: 2022-09-01
 alt: image-alt
@@ -10,7 +11,8 @@ artist: princeznhadapaz
 artist-img: princeznhadapaz - Lavínni Morais.jpeg
 instagram: princeznhadapaz
 twitter: princeznhadapaz
-artist-bio: "Lavinni, artista audiovisual, educadora e produtora cultural, que trabalha em intervenções multi linguagens em diálogo com as corporeidades pretas, música quebradeira, pirataria e sampleagem. Além de trabalhos indivíduais paticipa de ações coletivas junto a plataformas em Belo Horizonte como a GALLA ON FIRE, articulação artística Trans-Travestigênere e dissidente que ocupa estrategicamente os sistemas das artes, para visibilizar e valorizar trabalhos artísticos de pessoas trans e pessoas negras."
+artist-bio: "Lavinni es artista audiovisual, educadora y productora cultural. Trabaja en intervenciones multilingües en diálogo con corporeidades negras, y con la música quebradera, la piratería y el sampleo. Además de obras individuales, participa de acciones colectivas con plataformas en Belo Horizonte, como GALLA ON FIRE, articulación artística trans-Travestigenere y disidente que ocupa estratégicamente los sistemas de las artes, para visibilizar y valorar las obras artísticas de personas trans y negras. 
+"
 
 # OBRA
 title: Você não vai fazer de novo?
@@ -18,9 +20,17 @@ category: Vídeo performance
 img: princeznhadapaz-vocenaovaifazerdenovo.gif
 video: https://nftstorage.link/ipfs/QmRJ7JsLNjKoVM38UPnaDDeto3HYX3f5HdkwpijUrw54Yn
 nft-link: https://teia.art/objkt/770336
-description: "Você não vai fazer de novo? <br>
-Vídeo performance. <br>Produzida em 2021 para apresentação junto ao Coletivo Plano (Porto Alegre). EXIBIBÇÃO ÚNICA. 5Min<br><br>
-Produção: @__sergio_________<br>
+description: "Video-performance producido en 2021 para presentación con el Colectivo Plano (Porto Alegre). 5 minutos.<br>
+<br>
+Siempre intentará aprovechar las situaciones de la manera que mejor le funcione. Por ejemplo: o eres demasiado snob, o haces acuerdos que jamás podrías cumplir pagando con lo que recibes de quienes te dominan.<br>
+<br>
+— Entonces no me hables como si fueras mi domador.<br>
+— Con maña, y que hoy sea diferente de cuando tu forma de niño me convencía.<br>
+— Vamos de acuerdo a su personalidad, obedece cuando quiere, cuando le conviene o cuando está siendo subyugado...<br>
+<br>
+Banda sonora: EVEHIVE<br>
+<br>
+Producción: @__sergio_________<br>
 @namoradinhadobrazil<br>
 @ramiel2000____________ @vovodazn_" 
 ---

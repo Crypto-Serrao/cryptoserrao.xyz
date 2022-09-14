@@ -19,7 +19,7 @@
                             <h4>{{ site.data.translations['modal']['obra'][page.lang] }}</h4>
 
                             {% if post.video %}
-                            <video class="img-responsive img-centered" playsinline="" loop="" controls="" src="{{ site.baseurl }}{{ post.video }}"  autoplay="" muted></video>
+                            <video class="img-responsive img-centered" playsinline="" loop="" controls="" src="{{ post.video }}"  autoplay="" muted></video>
                             {% elsif post.img %}
                                 <img src="{{ site.baseurl }}img/portfolio/{{ post.img }}" class="img-responsive img-centered" alt="{{ post.alt }}">
                             {% endif %}
